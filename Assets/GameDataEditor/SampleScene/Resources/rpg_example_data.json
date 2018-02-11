@@ -1,0 +1,80 @@
+{
+    "_gdeSchema_Character_Demo": {
+        "hp": 0,
+        "_gdeType_hp": "Int",
+        "mana": 0,
+        "_gdeType_mana": "Int",
+        "damage": 0,
+        "_gdeType_damage": "Int",
+        "buffs": [
+            null,
+            null,
+            null
+        ],
+        "_gdeType_buffs": "Buff_Demo",
+        "_gdeIsList_buffs": true,
+        "name": "",
+        "_gdeType_name": "String"
+    },
+    "_gdeSchema_Buff_Demo": {
+        "_gdeType_hp_delta": "Int",
+        "mana_delta": 0,
+        "_gdeType_mana_delta": "Int",
+        "damage_delta": 0,
+        "_gdeType_damage_delta": "Int",
+        "name": "",
+        "hp_delta": 0,
+        "_gdeType_name": "String"
+    },
+    "warrior": {
+        "hp": 200,
+        "_gdeType_hp": "Int",
+        "mana": 0,
+        "_gdeType_mana": "Int",
+        "damage": 35,
+        "_gdeType_damage": "Int",
+        "buffs": [
+            "life_surge_1",
+            "dmg_surge_1",
+            "warrior_aura_1"
+        ],
+        "_gdeType_buffs": "Buff_Demo",
+        "_gdeIsList_buffs": true,
+        "_gdeSchema": "Character_Demo",
+        "name": "Sylrich",
+        "_gdeType_name": "String"
+    },
+    "life_surge_1": {
+        "_gdeType_hp_delta": "Int",
+        "mana_delta": 0,
+        "_gdeType_mana_delta": "Int",
+        "damage_delta": 0,
+        "_gdeType_damage_delta": "Int",
+        "hp_delta": 100,
+        "_gdeSchema": "Buff_Demo",
+        "name": "Life Surge Lvl 1",
+        "_gdeType_name": "String"
+    },
+    "dmg_surge_1": {
+        "_gdeType_hp_delta": "Int",
+        "mana_delta": 0,
+        "_gdeType_mana_delta": "Int",
+        "damage_delta": 20,
+        "_gdeType_damage_delta": "Int",
+        "name": "Blessing of Strength Lvl 1",
+        "hp_delta": 0,
+        "_gdeType_name": "String",
+        "_gdeSchema": "Buff_Demo"
+    },
+    "warrior_aura_1": {
+        "_gdeType_hp_delta": "Int",
+        "mana_delta": 0,
+        "_gdeType_mana_delta": "Int",
+        "damage_delta": 5,
+        "_gdeType_damage_delta": "Int",
+        "name": "Warrior's Aura Lvl 1",
+        "hp_delta": 30,
+        "_gdeType_name": "String",
+        "_gdeSchema": "Buff_Demo"
+    }
+}

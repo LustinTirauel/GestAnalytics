@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0d1aa0f33f5c34daa8aa4f2ef40afdca
+labels:
+- free
+- config
+- items
+- stats
+- inventory
+- level
+- management
+- configuration
+- game
+- data
+- editor
+- playtest
+- rpg
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,112 @@
+Mono path[0] = 'C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data/Managed'
+Mono path[1] = 'C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data/Mono'
+Mono config path = 'C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55484
+Multi-casting "[IP] 172.19.100.194 [Port] 55484 [Flags] 3 [Guid] 3249829145 [EditorId] 2374913088 [Version] 1048832 [Id] WindowsPlayer(OTBWorkDesktop) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [172.19.100.194:55484]...
+PlayerConnection accepted from [172.19.100.194] handle:0x280
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56145
+PlayerConnection already initialized - listening to [172.19.100.194:55484]
+Initialize engine version: 5.2.4f1 (98095704e6fe)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\OğuzTuran\Desktop\Questionnaire\quetionnaire_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Mono path[0] = 'C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data/Managed'
+Mono path[1] = 'C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data/Mono'
+Mono config path = 'C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/OğuzTuran/Desktop/Questionnaire/quetionnaire_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55303
+Multi-casting "[IP] 172.19.100.194 [Port] 55303 [Flags] 3 [Guid] 2056929136 [EditorId] 2374913088 [Version] 1048832 [Id] WindowsPlayer(OTBWorkDesktop) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [172.19.100.194:55303]...
+PlayerConnection accepted from [172.19.100.194] handle:0x2a0
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56136
+PlayerConnection already initialized - listening to [172.19.100.194:55303]
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\O�uzTuran\Desktop\Questionnaire;C:\Users\O�uzTuran\Desktop\Questionnaire;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'O�uzTuran'
+OS-Version: 10.0.10240 () 0x100-0x1
+C:\Users\O�uzTuran\Desktop\Questionnaire\quetionnaire.exe:quetionnaire.exe (01200000), size: 20717568 (result: 0), SymType: 'PDB', PDB: '.\player_win_development_x86.pdb', fileVersion: 5.2.4.2391
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77320000), size: 1544192 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.10240.16603
+C:\WINDOWS\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (76200000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\KERNEL32.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (76C10000), size: 1531904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\KERNELBASE.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\WS2_32.dll:WS2_32.dll (74920000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WS2_32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\sechost.dll:sechost.dll (74C90000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\sechost.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\RPCRT4.dll:RPCRT4.dll (76D90000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\RPCRT4.dll', fileVersion: 10.0.10240.16412
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (5F090000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (74430000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (74420000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\msvcrt.dll:msvcrt.dll (76140000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msvcrt.dll', fileVersion: 7.0.10240.16384
+C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (743C0000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\NSI.dll:NSI.dll (770B0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NSI.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\USER32.dll:USER32.dll (74720000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USER32.dll', fileVersion: 10.0.10240.16603
+C:\WINDOWS\SYSTEM32\GDI32.dll:GDI32.dll (768E0000), size: 1363968 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GDI32.dll', fileVersion: 10.0.10240.16644
+C:\WINDOWS\SYSTEM32\ole32.dll:ole32.dll (74A10000), size: 958464 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ole32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\combase.dll:combase.dll (76A50000), size: 1810432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\combase.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (743B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (77270000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHLWAPI.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\PSAPI.DLL:PSAPI.DLL (77310000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\PSAPI.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (74450000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ADVAPI32.dll', fileVersion: 10.0.10240.16644
+C:\WINDOWS\SYSTEM32\SHELL32.dll:SHELL32.dll (74D80000), size: 20701184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHELL32.dll', fileVersion: 10.0.10240.16542
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (763F0000), size: 5095424 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 10.0.10240.16515
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (74CE0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\shcore.dll:shcore.dll (74980000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\shcore.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (772C0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\powrprof.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (768D0000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (744D0000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OLEAUT32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (689A0000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\IMM32.dll:IMM32.dll (77020000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IMM32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\MSCTF.dll:MSCTF.dll (77110000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSCTF.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (71250000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (6AE40000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (73920000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.10240.16391
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (739D0000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (73B10000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (4FFD0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (70430000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (6E0A0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DDRAW.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (77230000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cfgmgr32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\WINNSI.DLL:WINNSI.DLL (73910000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINNSI.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (6F5A0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DCIMAN32.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (742C0000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.10240.16384
+C:\Users\O�uzTuran\Desktop\Questionnaire\quetionnaire_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'C:\Users\O�uzTuran\Desktop\Questionnaire\quetionnaire_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72590000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (6FFD0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (6FFB0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.10240.16384
+C:\WINDOWS\system32\napinsp.dll:napinsp.dll (6FE90000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\napinsp.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\system32\pnrpnsp.dll:pnrpnsp.dll (6FE70000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\pnrpnsp.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\system32\NLAapi.dll:NLAapi.dll (6FE50000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NLAapi.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\System32\winrnr.dll:winrnr.dll (6FE40000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\winrnr.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\system32\wshbth.dll:wshbth.dll (6FE20000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wshbth.dll', fileVersion: 10.0.10240.16384
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (6F2F0000), size: 479232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.10240.16397
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (6F1B0000), size: 1306624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.10240.16384
+
+========== OUTPUTING STACK TRACE ==================
+
+0x01253CC2 (quetionnaire) winutils::DisplayErrorMessages
+0x0156F13C (quetionnaire) PlayerWinMain
+0x0199A468 (quetionnaire) WinMain
+0x019D0089 (quetionnaire) _stricmp
+0x76213744 (KERNEL32) BaseThreadInitThunk
+0x77379CD4 (ntdll) RtlSetCurrentTransaction
+0x77379C9F (ntdll) RtlSetCurrentTransaction
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
