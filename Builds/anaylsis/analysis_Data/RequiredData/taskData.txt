@@ -1,0 +1,27 @@
+Tasks;VideoNames
+Select;select
+Navigate;navigate
+Open;open
+Minimize;minimize
+Maximize;maximize
+Close;close
+Zoom in;zoomin
+Zoom out;zoomout
+Next;next
+Previous;previous
+Switch task/window;switchtask
+Scroll up;scrollup
+Scroll down;scrolldown
+Accept;accept
+Reject;reject
+Accept call;acceptcall
+Reject call;rejectcall
+Mute;mute
+Emergency call;emergency
+Increase volume;increasevolume
+Decrease volume;decreasevolume
+Shuffle;shuffle
+Play;play
+Pause;pause
+Rewind;rewind
+Forward;forward

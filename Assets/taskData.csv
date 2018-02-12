@@ -1,26 +1,26 @@
 
-Play;play
-Shuffle;shuffle
-Forward;forward
-Select;select
-Emergency call;emergency
-Rewind;rewind
-Scroll up;scrollup
-Maximize;maximize
-Pause;pause
-Reject call;rejectcallphone
-Navigate;navigate
 Accept;accept
-Accept call;acceptcall
-Reject;reject
-Switch task/window;switchtask
-Close;close
+Maximize;maximize
+Navigate;navigate
+Pause;pause
+Select;select
 Increase volume;increasevolume
-Next;next
-Zoom in;zoomin
-Zoom out;zoomout
-Previous;previous
-Minimize;minimize
+Reject call;rejectcallphone
+Scroll down;scrolldown
+Shuffle;shuffle
 Open;open
 Decrease volume;decreasevolume
-Scroll down;scrolldown
+Minimize;minimize
+Forward;forward
+Emergency call;emergency
+Rewind;rewind
+Play;play
+Next;next
+Accept call;acceptcall
+Close;close
+Switch task/window;switchtask
+Zoom out;zoomout
+Previous;previous
+Zoom in;zoomin
+Reject;reject
+Scroll up;scrollup

@@ -1,0 +1,2096 @@
+----------------------------------------------------------------------------
+Theora Converter .NET
+10 Mart 2016 Perşembe 18:13:48
+
+ffmpeg2theora options: 
+ --videoquality 2 --pp default --audioquality 2 --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: C:\Users\OğuzTuran\Desktop\ExportedVideo
+Converting: 'accept.avi', (7,7 MB)
+Converting: 'acceptcall.avi', (4 MB)
+Converting: 'close.avi', (2,5 MB)
+Converting: 'decreasevolume.avi', (2,7 MB)
+Converting: 'emergency.avi', (6,2 MB)
+Converting: 'forward.avi', (25,8 MB)
+Converting: 'increasevolume.avi', (4 MB)
+Converting: 'maximize.avi', (3,2 MB)
+Converting: 'minimize.avi', (3 MB)
+Completed:  'close.ogv', (,1 MB) in ,1 minutes.
+Completed:  'acceptcall.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute.avi', (3,6 MB)
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate.avi', (5,6 MB)
+Converting: 'next.avi', (8 MB)
+Converting: 'open.avi', (4,6 MB)
+Converting: 'pause.avi', (2,5 MB)
+Converting: 'play.avi', (9 MB)
+Completed:  'maximize.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous.avi', (3,8 MB)
+Completed:  'minimize.ogv', (,2 MB) in ,1 minutes.
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Completed:  'mute.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject.avi', (2,4 MB)
+Converting: 'rejectcallphone.avi', (3,2 MB)
+Converting: 'rewind.avi', (3,1 MB)
+Completed:  'pause.ogv', (,1 MB) in  minutes.
+Converting: 'scrolldown.avi', (5,5 MB)
+Completed:  'emergency.ogv', (,4 MB) in ,1 minutes.
+Converting: 'scrollup.avi', (2,1 MB)
+Completed:  'accept.ogv', (,5 MB) in ,2 minutes.
+Converting: 'select.avi', (4,2 MB)
+Completed:  'reject.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (4,3 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,1 minutes.
+Converting: 'switchtask.avi', (3,1 MB)
+Completed:  'scrollup.ogv', (,1 MB) in ,1 minutes.
+Completed:  'rejectcallphone.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (2,7 MB)
+Completed:  'rewind.ogv', (,2 MB) in ,1 minutes.
+Completed:  'open.ogv', (,3 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (2,6 MB)
+Converting: 'acceptcall_innovative.avi', (2,1 MB)
+Converting: 'accept_innovative.avi', (2,3 MB)
+Converting: 'close_innovative.avi', (1,9 MB)
+Completed:  'switchtask.ogv', (,2 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (1,9 MB)
+Completed:  'select.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (1,7 MB)
+Completed:  'zoomin.ogv', (,2 MB) in ,1 minutes.
+Completed:  'acceptcall_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'forward_innovative.avi', (2,2 MB)
+Completed:  'shuffle.ogv', (,3 MB) in ,1 minutes.
+Completed:  'zoomout.ogv', (,2 MB) in ,1 minutes.
+Completed:  'scrolldown.ogv', (,4 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (2,3 MB)
+Completed:  'close_innovative.ogv', (,1 MB) in ,1 minutes.
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'next.ogv', (,5 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (2,2 MB)
+Converting: 'minimize_innovative.avi', (3,1 MB)
+Completed:  'emergency_innovative.ogv', (,1 MB) in  minutes.
+Completed:  'play.ogv', (,6 MB) in ,2 minutes.
+Completed:  'decreasevolume_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'mute_innovative.avi', (2,2 MB)
+Completed:  'forward_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'navigate_innovative.avi', (3,2 MB)
+Completed:  'increasevolume_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'next_innovative.avi', (1,9 MB)
+Completed:  'maximize_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'open_innovative.avi', (2,7 MB)
+Completed:  'mute_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'pause_innovative.avi', (1,9 MB)
+Converting: 'play_innovative.avi', (1,8 MB)
+Completed:  'minimize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous_innovative.avi', (,8 MB)
+Completed:  'next_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'rejectcallphone_innovative.avi', (1,9 MB)
+Completed:  'navigate_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'pause_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'reject_innovative.avi', (2 MB)
+Completed:  'previous_innovative.ogv', ( MB) in  minutes.
+Converting: 'rewind_innovative.avi', (2,1 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'play_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'scrolldown_innovative.avi', (2,8 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'scrollup_innovative.avi', (2,4 MB)
+Converting: 'select_innovative.avi', (2,2 MB)
+Completed:  'reject_innovative.ogv', (,1 MB) in  minutes.
+Completed:  'rewind_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'shuffle_innovative.avi', (2 MB)
+Converting: 'switchtask_innovative.avi', (2,8 MB)
+Completed:  'scrollup_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'zoomin_innovative.avi', (3,6 MB)
+Converting: 'zoomout_innovative.avi', (4,4 MB)
+Completed:  'scrolldown_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'shuffle_innovative.ogv', (,2 MB) in  minutes.
+Completed:  'select_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'accept.avi', (4,8 MB)
+Converting: 'acceptcall.avi', (4,8 MB)
+Completed:  'switchtask_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'close.avi', (4,9 MB)
+Converting: 'decreasevolume.avi', (3,3 MB)
+Converting: 'emergency.avi', (8,2 MB)
+Converting: 'forward.avi', (3,7 MB)
+Converting: 'increasevolume.avi', (4,9 MB)
+Completed:  'zoomin_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'maximize.avi', (4,3 MB)
+Converting: 'minimize.avi', (4,3 MB)
+Completed:  'acceptcall.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute.avi', (7,7 MB)
+Converting: 'navigate.avi', (6,1 MB)
+Completed:  'zoomout_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'accept.ogv', (,3 MB) in ,1 minutes.
+Converting: 'next.avi', (4,9 MB)
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open.avi', (4 MB)
+Completed:  'forward.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause.avi', (4,5 MB)
+Completed:  'close.ogv', (,4 MB) in ,1 minutes.
+Converting: 'play.avi', (7,3 MB)
+Converting: 'previous.avi', (5,8 MB)
+Completed:  'forward.ogv', (2 MB) in ,6 minutes.
+Converting: 'reject.avi', (4,4 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (4,3 MB)
+Completed:  'maximize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rewind.avi', (5,9 MB)
+Completed:  'emergency.ogv', (,5 MB) in ,1 minutes.
+Completed:  'minimize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (3,7 MB)
+Converting: 'scrollup.avi', (4,6 MB)
+Completed:  'mute.ogv', (,4 MB) in ,1 minutes.
+Converting: 'select.avi', (3,1 MB)
+Completed:  'open.ogv', (,3 MB) in ,1 minutes.
+Completed:  'next.ogv', (,3 MB) in ,1 minutes.
+Completed:  'pause.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (4,1 MB)
+Converting: 'switchtask.avi', (6,1 MB)
+Converting: 'zoomin.avi', (5,4 MB)
+Completed:  'reject.ogv', (,3 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,4 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (34,2 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,1 minutes.
+Completed:  'scrolldown.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rejectcallphone.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall_innovative.avi', (4,5 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'accept_innovative.avi', (3 MB)
+Completed:  'select.ogv', (,2 MB) in ,1 minutes.
+Converting: 'close_innovative.avi', (4,6 MB)
+Completed:  'rewind.ogv', (,4 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (4,2 MB)
+Completed:  'play.ogv', (,5 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (4,8 MB)
+Converting: 'forward_innovative.avi', (6,5 MB)
+Completed:  'shuffle.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (2,4 MB)
+Converting: 'maximize_innovative.avi', (,8 MB)
+Completed:  'acceptcall_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (4,4 MB)
+Converting: 'mute_innovative.avi', (4,7 MB)
+Completed:  'maximize_innovative.ogv', ( MB) in  minutes.
+Completed:  'zoomin.ogv', (,4 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (4,3 MB)
+Converting: 'next_innovative.avi', (5,4 MB)
+Completed:  'switchtask.ogv', (,4 MB) in ,1 minutes.
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in  minutes.
+Converting: 'open_innovative.avi', (3,8 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (5,7 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (5,5 MB)
+Converting: 'previous_innovative.avi', (5,6 MB)
+Converting: 'rejectcallphone_innovative.avi', (6,9 MB)
+Completed:  'forward_innovative.ogv', (,5 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (4,7 MB)
+Converting: 'rewind_innovative.avi', (5,8 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'mute_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (4,8 MB)
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (4,2 MB)
+Completed:  'open_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (3,5 MB)
+Converting: 'shuffle_innovative.avi', (4,2 MB)
+Completed:  'next_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (5,4 MB)
+Completed:  'pause_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (4,7 MB)
+Completed:  'play_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (4,9 MB)
+Completed:  'previous_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'accept.avi', (8,8 MB)
+Completed:  'scrollup_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (4,3 MB)
+Completed:  'select_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'rewind_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'close.avi', (11,3 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,5 MB) in ,1 minutes.
+Converting: 'decreasevolume.avi', (3,6 MB)
+Converting: 'emergency.avi', (3,6 MB)
+Converting: 'forward.avi', (4,7 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (4,3 MB)
+Converting: 'maximize.avi', (7 MB)
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'minimize.avi', (3,9 MB)
+Completed:  'switchtask_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'mute.avi', (6,1 MB)
+Completed:  'acceptcall.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate.avi', (4,8 MB)
+Completed:  'decreasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'next.avi', (22 MB)
+Completed:  'zoomout_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'emergency.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open.avi', (6 MB)
+Converting: 'pause.avi', (3,4 MB)
+Completed:  'forward.ogv', (,4 MB) in ,1 minutes.
+Converting: 'play.avi', (4,8 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous.avi', (3,6 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject.avi', (4,6 MB)
+Completed:  'mute.ogv', (,5 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (4,3 MB)
+Completed:  'pause.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rewind.avi', (11,4 MB)
+Completed:  'navigate.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (5,3 MB)
+Completed:  'accept.ogv', (,7 MB) in ,2 minutes.
+Completed:  'previous.ogv', (,3 MB) in ,1 minutes.
+Completed:  'play.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup.avi', (3,8 MB)
+Completed:  'maximize.ogv', (,5 MB) in ,2 minutes.
+Converting: 'select.avi', (33,5 MB)
+Completed:  'open.ogv', (,4 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (3,3 MB)
+Converting: 'switchtask.avi', (5,4 MB)
+Completed:  'reject.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (6,6 MB)
+Completed:  'close.ogv', (,8 MB) in ,2 minutes.
+Converting: 'zoomout.avi', (17,1 MB)
+Converting: 'acceptcall_innovative.avi', (3,1 MB)
+Completed:  'rejectcallphone.ogv', (,3 MB) in ,1 minutes.
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'accept_innovative.avi', (8,1 MB)
+Converting: 'close_innovative.avi', (8,8 MB)
+Completed:  'scrolldown.ogv', (,4 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (4,1 MB)
+Completed:  'shuffle.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (7,4 MB)
+Completed:  'acceptcall_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'forward_innovative.avi', (7,6 MB)
+Completed:  'switchtask.ogv', (,4 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (2,7 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (4,2 MB)
+Completed:  'zoomin.ogv', (,5 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (9,8 MB)
+Completed:  'rewind.ogv', (,8 MB) in ,2 minutes.
+Converting: 'mute_innovative.avi', (4,2 MB)
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (8,3 MB)
+Completed:  'emergency_innovative.ogv', (,5 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (5,6 MB)
+Completed:  'forward_innovative.ogv', (,6 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (8,7 MB)
+Completed:  'close_innovative.ogv', (,7 MB) in ,2 minutes.
+Converting: 'pause_innovative.avi', (3 MB)
+Completed:  'accept_innovative.ogv', (,6 MB) in ,2 minutes.
+Completed:  'mute_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (3,8 MB)
+Converting: 'previous_innovative.avi', (4,1 MB)
+Converting: 'rejectcallphone_innovative.avi', (6,1 MB)
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (3,6 MB)
+Completed:  'play_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (3,4 MB)
+Completed:  'next.ogv', (1,7 MB) in ,5 minutes.
+Converting: 'scrolldown_innovative.avi', (10,6 MB)
+Completed:  'next_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (3,2 MB)
+Converting: 'select_innovative.avi', (7,8 MB)
+Completed:  'rewind_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,4 MB)
+Completed:  'minimize_innovative.ogv', (,8 MB) in ,2 minutes.
+Completed:  'navigate_innovative.ogv', (,6 MB) in ,2 minutes.
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'zoomout.ogv', (2,6 MB) in ,8 minutes.
+Converting: 'switchtask_innovative.avi', (5,4 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (5,5 MB)
+Completed:  'zoomout.ogv', (1,3 MB) in ,4 minutes.
+Completed:  'open_innovative.ogv', (,6 MB) in ,2 minutes.
+Completed:  'scrollup_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (4,5 MB)
+Converting: 'accept.avi', (2,8 MB)
+Converting: 'acceptcall.avi', (3,8 MB)
+Converting: 'close.avi', (4,2 MB)
+Converting: 'decreasevolume.avi', (7 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency.avi', (5,2 MB)
+Converting: 'forward.avi', (3,6 MB)
+Completed:  'switchtask_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (5,9 MB)
+Completed:  'accept.ogv', (,2 MB) in ,1 minutes.
+Completed:  'select_innovative.ogv', (,5 MB) in ,1 minutes.
+Completed:  'scrolldown_innovative.ogv', (,8 MB) in ,2 minutes.
+Completed:  'zoomout_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'maximize.avi', (4,2 MB)
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'minimize.avi', (6,7 MB)
+Converting: 'mute.avi', (5,7 MB)
+Converting: 'navigate.avi', (6,9 MB)
+Converting: 'next.avi', (8,4 MB)
+Completed:  'acceptcall.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open.avi', (6,2 MB)
+Completed:  'forward.ogv', (,2 MB) in ,1 minutes.
+Converting: 'pause.avi', (7,5 MB)
+Completed:  'close.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play.avi', (4,1 MB)
+Completed:  'emergency.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous.avi', (5,2 MB)
+Completed:  'maximize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject.avi', (4,7 MB)
+Completed:  'mute.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (3,4 MB)
+Completed:  'decreasevolume.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rewind.avi', (6,3 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (5,8 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrollup.avi', (4,4 MB)
+Completed:  'minimize.ogv', (,4 MB) in ,2 minutes.
+Converting: 'select.avi', (4,9 MB)
+Completed:  'open.ogv', (,4 MB) in ,2 minutes.
+Converting: 'shuffle.avi', (6,5 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (8,4 MB)
+Completed:  'rejectcallphone.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (5 MB)
+Completed:  'reject.ogv', (,3 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,3 MB) in ,2 minutes.
+Completed:  'pause.ogv', (,5 MB) in ,2 minutes.
+Converting: 'zoomout.avi', (6,9 MB)
+Converting: 'acceptcall_innovative.avi', (4,9 MB)
+Converting: 'accept_innovative.avi', (7,2 MB)
+Completed:  'next.ogv', (,6 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (3,3 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (4,3 MB)
+Completed:  'select.ogv', (2,1 MB) in ,8 minutes.
+Converting: 'emergency_innovative.avi', (4,4 MB)
+Completed:  'rewind.ogv', (,4 MB) in ,2 minutes.
+Completed:  'scrolldown.ogv', (,3 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (3,8 MB)
+Converting: 'increasevolume_innovative.avi', (4,4 MB)
+Completed:  'select.ogv', (,3 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (3,5 MB)
+Completed:  'close_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (3,9 MB)
+Completed:  'zoomin.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (4,6 MB)
+Completed:  'acceptcall_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (7 MB)
+Completed:  'shuffle.ogv', (,4 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (5,3 MB)
+Completed:  'forward_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (4 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (7,2 MB)
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (4,8 MB)
+Completed:  'zoomout.ogv', (,4 MB) in ,2 minutes.
+Converting: 'previous_innovative.avi', (6,3 MB)
+Completed:  'maximize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (3,7 MB)
+Completed:  'increasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'accept_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (5,3 MB)
+Converting: 'rewind_innovative.avi', (5,3 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (4,3 MB)
+Completed:  'mute_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'switchtask.ogv', (,5 MB) in ,3 minutes.
+Converting: 'scrollup_innovative.avi', (4,7 MB)
+Converting: 'select_innovative.avi', (5,6 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (4,8 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (5,6 MB)
+Completed:  'play_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (6,2 MB)
+Completed:  'next_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'zoomout_innovative.avi', (6,8 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'accept.avi', (1,9 MB)
+Completed:  'navigate_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (3,2 MB)
+Converting: 'close.avi', (5,2 MB)
+Completed:  'rewind_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'previous_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'decreasevolume.avi', (3,2 MB)
+Completed:  'scrollup_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'pause_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'emergency.avi', (5,2 MB)
+Converting: 'forward.avi', (3,5 MB)
+Converting: 'increasevolume.avi', (5,2 MB)
+Completed:  'accept.ogv', (,1 MB) in ,1 minutes.
+Converting: 'maximize.avi', (1,8 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize.avi', (5,4 MB)
+Completed:  'select_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'mute.avi', (3,1 MB)
+Completed:  'acceptcall.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate.avi', (5,7 MB)
+Completed:  'maximize.ogv', (,1 MB) in ,1 minutes.
+Converting: 'next.avi', (3,7 MB)
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open.avi', (3,8 MB)
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'switchtask_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'pause.avi', (2,7 MB)
+Converting: 'play.avi', (3,8 MB)
+Completed:  'forward.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous.avi', (2,7 MB)
+Completed:  'mute.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject.avi', (3,4 MB)
+Completed:  'zoomout_innovative.ogv', (,5 MB) in ,2 minutes.
+Completed:  'close.ogv', (,3 MB) in ,2 minutes.
+Converting: 'rejectcallphone.avi', (2,1 MB)
+Converting: 'rewind.avi', (3,2 MB)
+Completed:  'emergency.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (2,9 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (2,8 MB)
+Completed:  'pause.ogv', (,2 MB) in ,1 minutes.
+Completed:  'next.ogv', (,2 MB) in ,1 minutes.
+Converting: 'select.avi', (2,8 MB)
+Converting: 'shuffle.avi', (4,1 MB)
+Completed:  'previous.ogv', (,2 MB) in ,1 minutes.
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Converting: 'switchtask.avi', (5,4 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,2 minutes.
+Completed:  'rejectcallphone.ogv', (,1 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (7,6 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (4,1 MB)
+Converting: 'acceptcall_innovative.avi', (1,7 MB)
+Completed:  'reject.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rewind.ogv', (,2 MB) in ,1 minutes.
+Converting: 'accept_innovative.avi', (3,9 MB)
+Completed:  'scrolldown.ogv', (,2 MB) in ,1 minutes.
+Completed:  'navigate.ogv', (,3 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (3,6 MB)
+Converting: 'decreasevolume_innovative.avi', (7,9 MB)
+Completed:  'scrollup.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (5,5 MB)
+Completed:  'select.ogv', (,2 MB) in ,1 minutes.
+Completed:  'acceptcall_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'forward_innovative.avi', (3,1 MB)
+Converting: 'increasevolume_innovative.avi', (3,1 MB)
+Converting: 'maximize_innovative.avi', (4,4 MB)
+Converting: 'minimize_innovative.avi', (3,1 MB)
+Completed:  'shuffle.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (3,1 MB)
+Completed:  'zoomout.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (4,8 MB)
+Completed:  'close_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (1,3 MB)
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (2,6 MB)
+Completed:  'forward_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'switchtask.ogv', (,3 MB) in ,2 minutes.
+Converting: 'pause_innovative.avi', (2,8 MB)
+Converting: 'play_innovative.avi', (4,5 MB)
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'next_innovative.ogv', ( MB) in  minutes.
+Converting: 'previous_innovative.avi', (4,8 MB)
+Converting: 'rejectcallphone_innovative.avi', (2,6 MB)
+Completed:  'mute_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'minimize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (2,2 MB)
+Converting: 'rewind_innovative.avi', (4,2 MB)
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (2,7 MB)
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (,4 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'zoomin.ogv', (,4 MB) in ,2 minutes.
+Converting: 'select_innovative.avi', (4 MB)
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'scrollup_innovative.ogv', ( MB) in  minutes.
+Converting: 'shuffle_innovative.avi', (4,7 MB)
+Converting: 'switchtask_innovative.avi', (6,5 MB)
+Completed:  'reject_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (3,5 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (4,5 MB)
+Completed:  'decreasevolume_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'accept.avi', (7,6 MB)
+Completed:  'scrolldown_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (6 MB)
+Completed:  'play_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'close.avi', (8,2 MB)
+Converting: 'decreasevolume.avi', (6,6 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency.avi', (6 MB)
+Completed:  'rewind_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'forward.avi', (6,3 MB)
+Converting: 'increasevolume.avi', (7,3 MB)
+Completed:  'select_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'maximize.avi', (4,6 MB)
+Completed:  'zoomin_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize.avi', (4,6 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute.avi', (5,1 MB)
+Completed:  'zoomout_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate.avi', (7,7 MB)
+Completed:  'switchtask_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'next.avi', (8,5 MB)
+Completed:  'acceptcall.ogv', (,3 MB) in ,2 minutes.
+Converting: 'open.avi', (6,5 MB)
+Completed:  'maximize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause.avi', (1 MB)
+Completed:  'emergency.ogv', (,3 MB) in ,2 minutes.
+Converting: 'play.avi', (5,3 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous.avi', (5,9 MB)
+Completed:  'forward.ogv', (,4 MB) in ,2 minutes.
+Completed:  'decreasevolume.ogv', (,4 MB) in ,2 minutes.
+Completed:  'accept.ogv', (,4 MB) in ,2 minutes.
+Converting: 'reject.avi', (7,1 MB)
+Completed:  'pause.ogv', ( MB) in  minutes.
+Completed:  'mute.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (7,1 MB)
+Completed:  'close.ogv', (,5 MB) in ,2 minutes.
+Converting: 'rewind.avi', (4,8 MB)
+Converting: 'scrolldown.avi', (5,2 MB)
+Completed:  'increasevolume.ogv', (,4 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (3,4 MB)
+Converting: 'select.avi', (4,8 MB)
+Converting: 'shuffle.avi', (7,5 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (7,9 MB)
+Completed:  'play.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (4 MB)
+Completed:  'scrollup.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (4,1 MB)
+Completed:  'open.ogv', (,4 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (8 MB)
+Completed:  'rewind.ogv', (,2 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,4 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (4,9 MB)
+Converting: 'close_innovative.avi', (7,3 MB)
+Completed:  'scrolldown.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (5,6 MB)
+Completed:  'select.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (7 MB)
+Completed:  'next.ogv', (,5 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (7,1 MB)
+Completed:  'reject.ogv', (,4 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (3,9 MB)
+Completed:  'rejectcallphone.ogv', (,4 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (4,5 MB)
+Completed:  'zoomin.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (6,1 MB)
+Completed:  'zoomout.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (6 MB)
+Completed:  'shuffle.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate_innovative.avi', (5,5 MB)
+Completed:  'accept_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (4,9 MB)
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (5,1 MB)
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (5,9 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'play_innovative.avi', (4,5 MB)
+Completed:  'acceptcall_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'previous_innovative.avi', (6,8 MB)
+Completed:  'switchtask.ogv', (,4 MB) in ,3 minutes.
+Completed:  'close_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rejectcallphone_innovative.avi', (3,8 MB)
+Converting: 'reject_innovative.avi', (4,7 MB)
+Completed:  'emergency_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rewind_innovative.avi', (7 MB)
+Completed:  'forward_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'scrolldown_innovative.avi', (5,4 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (7,7 MB)
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'select_innovative.avi', (5,6 MB)
+Completed:  'mute_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'shuffle_innovative.avi', (3,7 MB)
+Completed:  'open_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (4,7 MB)
+Completed:  'next_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'zoomin_innovative.avi', (6,3 MB)
+Completed:  'play_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (6,1 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'accept.avi', (5,1 MB)
+Completed:  'pause_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'acceptcall.avi', (5,6 MB)
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'close.avi', (5,8 MB)
+Completed:  'shuffle_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'decreasevolume.avi', (6,1 MB)
+Completed:  'previous_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'emergency.avi', (4,4 MB)
+Completed:  'rewind_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'forward.avi', (7,3 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'increasevolume.avi', (6,3 MB)
+Completed:  'select_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'maximize.avi', (11 MB)
+Completed:  'switchtask_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'minimize.avi', (6,5 MB)
+Completed:  'accept.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute.avi', (5,1 MB)
+Completed:  'zoomin_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'navigate.avi', (4,7 MB)
+Completed:  'scrollup_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'next.avi', (5,1 MB)
+Completed:  'zoomout_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'open.avi', (4,3 MB)
+Completed:  'acceptcall.ogv', (,4 MB) in ,2 minutes.
+Converting: 'pause.avi', (7,4 MB)
+Completed:  'close.ogv', (,4 MB) in ,2 minutes.
+Converting: 'play.avi', (7,7 MB)
+Completed:  'emergency.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous.avi', (4,9 MB)
+Completed:  'decreasevolume.ogv', (,3 MB) in ,2 minutes.
+Converting: 'reject.avi', (4,4 MB)
+Completed:  'increasevolume.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rejectcallphone.avi', (7,3 MB)
+Completed:  'navigate.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rewind.avi', (5,4 MB)
+Completed:  'mute.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (5,6 MB)
+Completed:  'open.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup.avi', (4,7 MB)
+Completed:  'forward.ogv', (,4 MB) in ,2 minutes.
+Completed:  'next.ogv', (,3 MB) in ,1 minutes.
+Completed:  'minimize.ogv', (,4 MB) in ,2 minutes.
+Converting: 'select.avi', (7,2 MB)
+Converting: 'shuffle.avi', (6 MB)
+Converting: 'switchtask.avi', (7 MB)
+Completed:  'previous.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (6,4 MB)
+Completed:  'reject.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (5,8 MB)
+Completed:  'pause.ogv', (,4 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (7,2 MB)
+Completed:  'play.ogv', (,5 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (4,8 MB)
+Completed:  'maximize.ogv', (,8 MB) in ,3 minutes.
+Converting: 'close_innovative.avi', (4,6 MB)
+Completed:  'rewind.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (6,2 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (6,4 MB)
+Completed:  'scrolldown.ogv', (,4 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (5 MB)
+Completed:  'shuffle.ogv', (,4 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (4,1 MB)
+Completed:  'rejectcallphone.ogv', (,5 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (9,2 MB)
+Completed:  'zoomin.ogv', (,4 MB) in ,2 minutes.
+Converting: 'minimize_innovative.avi', (5,5 MB)
+Completed:  'select.ogv', (,5 MB) in ,2 minutes.
+Converting: 'mute_innovative.avi', (6,5 MB)
+Completed:  'switchtask.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate_innovative.avi', (5,9 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'zoomout.ogv', (,3 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (5,6 MB)
+Completed:  'accept_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (6,9 MB)
+Converting: 'pause_innovative.avi', (6,7 MB)
+Completed:  'acceptcall_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'play_innovative.avi', (5,2 MB)
+Completed:  'forward_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous_innovative.avi', (5 MB)
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (5,8 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (6,8 MB)
+Completed:  'emergency_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rewind_innovative.avi', (4,1 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrolldown_innovative.avi', (6,2 MB)
+Completed:  'mute_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (4,7 MB)
+Completed:  'navigate_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'next_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'select_innovative.avi', (5,5 MB)
+Converting: 'shuffle_innovative.avi', (5,3 MB)
+Completed:  'play_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (9 MB)
+Completed:  'rewind_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (4,8 MB)
+Completed:  'pause_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'zoomout_innovative.avi', (4,3 MB)
+Completed:  'open_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'maximize_innovative.ogv', (,5 MB) in ,3 minutes.
+Converting: 'accept.avi', (2,8 MB)
+Converting: 'acceptcall.avi', (3,1 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'close.avi', (2,4 MB)
+Converting: 'decreasevolume.avi', (2,1 MB)
+Completed:  'reject_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'emergency.avi', (7,4 MB)
+Completed:  'scrollup_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'forward.avi', (4,6 MB)
+Completed:  'accept.ogv', (,2 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (4,6 MB)
+Completed:  'close.ogv', (,2 MB) in ,1 minutes.
+Converting: 'maximize.avi', (3 MB)
+Completed:  'acceptcall.ogv', (,2 MB) in ,1 minutes.
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize.avi', (14,5 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,2 minutes.
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'zoomout_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute.avi', (2,4 MB)
+Completed:  'zoomin_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'select_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'navigate.avi', (4,8 MB)
+Converting: 'next.avi', (6,9 MB)
+Converting: 'open.avi', (3,3 MB)
+Converting: 'pause.avi', (5,4 MB)
+Converting: 'play.avi', (2,4 MB)
+Completed:  'maximize.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous.avi', (7,6 MB)
+Completed:  'mute.ogv', (,2 MB) in ,1 minutes.
+Completed:  'forward.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject.avi', (6,1 MB)
+Converting: 'rejectcallphone.avi', (4,5 MB)
+Completed:  'increasevolume.ogv', (,4 MB) in ,1 minutes.
+Converting: 'rewind.avi', (9,7 MB)
+Completed:  'switchtask_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (6,6 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrollup.avi', (3,2 MB)
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Converting: 'select.avi', (3,9 MB)
+Completed:  'emergency.ogv', (,4 MB) in ,2 minutes.
+Converting: 'shuffle.avi', (4,8 MB)
+Completed:  'navigate.ogv', (,3 MB) in ,1 minutes.
+Converting: 'switchtask.avi', (5,2 MB)
+Completed:  'pause.ogv', (,4 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (3,3 MB)
+Completed:  'rejectcallphone.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (5 MB)
+Completed:  'scrollup.ogv', (,2 MB) in ,1 minutes.
+Converting: 'acceptcall_innovative.avi', (2,3 MB)
+Completed:  'next.ogv', (,4 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (3,8 MB)
+Completed:  'reject.ogv', (,4 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (5,2 MB)
+Completed:  'select.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (2,5 MB)
+Completed:  'acceptcall_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (5,5 MB)
+Completed:  'zoomin.ogv', (,3 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,6 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (3,2 MB)
+Completed:  'shuffle.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (2,7 MB)
+Completed:  'scrolldown.ogv', (,5 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (3,9 MB)
+Completed:  'switchtask.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (3,6 MB)
+Converting: 'mute_innovative.avi', (3,1 MB)
+Completed:  'decreasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (5,2 MB)
+Completed:  'zoomout.ogv', (,4 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (3,3 MB)
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (3,8 MB)
+Completed:  'rewind.ogv', (,7 MB) in ,3 minutes.
+Converting: 'pause_innovative.avi', (1,8 MB)
+Completed:  'forward_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (2,6 MB)
+Converting: 'previous_innovative.avi', (2,4 MB)
+Completed:  'minimize.ogv', (,9 MB) in ,4 minutes.
+Converting: 'rejectcallphone_innovative.avi', (2,4 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (3,2 MB)
+Completed:  'mute_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (7 MB)
+Completed:  'pause_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'scrolldown_innovative.avi', (3,3 MB)
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (3,2 MB)
+Converting: 'select_innovative.avi', (1,6 MB)
+Completed:  'next_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'play_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (2,7 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'previous_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (4,9 MB)
+Completed:  'open_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (3,7 MB)
+Converting: 'zoomout_innovative.avi', (3,9 MB)
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'select_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'accept.avi', (6,3 MB)
+Completed:  'reject_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (6 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'close.avi', (3,4 MB)
+Completed:  'scrollup_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'shuffle_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'decreasevolume.avi', (14,4 MB)
+Converting: 'emergency.avi', (18,1 MB)
+Converting: 'forward.avi', (4,7 MB)
+Converting: 'increasevolume.avi', (6 MB)
+Converting: 'maximize.avi', (7,2 MB)
+Completed:  'zoomin_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize.avi', (5,2 MB)
+Completed:  'zoomout_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute.avi', (6,4 MB)
+Completed:  'rewind_innovative.ogv', (,5 MB) in ,2 minutes.
+Completed:  'switchtask_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate.avi', (6,2 MB)
+Completed:  'close.ogv', (,2 MB) in ,1 minutes.
+Converting: 'next.avi', (7,2 MB)
+Converting: 'open.avi', (3,8 MB)
+Completed:  'accept.ogv', (,4 MB) in ,2 minutes.
+Converting: 'pause.avi', (28,6 MB)
+Completed:  'forward.ogv', (,3 MB) in ,1 minutes.
+Completed:  'acceptcall.ogv', (,3 MB) in ,2 minutes.
+Converting: 'play.avi', (4,2 MB)
+Converting: 'previous.avi', (11,7 MB)
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject.avi', (7,2 MB)
+Completed:  'minimize.ogv', (,4 MB) in ,1 minutes.
+Completed:  'increasevolume.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rejectcallphone.avi', (8,5 MB)
+Converting: 'rewind.avi', (9,3 MB)
+Completed:  'mute.ogv', (,5 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (4,6 MB)
+Completed:  'maximize.ogv', (,4 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (4,9 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,2 minutes.
+Converting: 'select.avi', (7,7 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (2,6 MB)
+Completed:  'next.ogv', (,5 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (11,7 MB)
+Completed:  'shuffle.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (6,4 MB)
+Completed:  'scrolldown.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (3,9 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall_innovative.avi', (6,8 MB)
+Completed:  'decreasevolume.ogv', (,8 MB) in ,4 minutes.
+Converting: 'accept_innovative.avi', (7,6 MB)
+Completed:  'reject.ogv', (,5 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (3,9 MB)
+Completed:  'rejectcallphone.ogv', (,6 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (8,2 MB)
+Completed:  'rewind.ogv', (,6 MB) in ,2 minutes.
+Converting: 'emergency_innovative.avi', (5,3 MB)
+Completed:  'emergency.ogv', (1,4 MB) in ,4 minutes.
+Converting: 'forward_innovative.avi', (6,4 MB)
+Completed:  'previous.ogv', (,9 MB) in ,3 minutes.
+Converting: 'increasevolume_innovative.avi', (4,8 MB)
+Completed:  'zoomout.ogv', (,2 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (6,7 MB)
+Completed:  'select.ogv', (,5 MB) in ,2 minutes.
+Converting: 'minimize_innovative.avi', (4,4 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (5,8 MB)
+Completed:  'zoomin.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate_innovative.avi', (6,5 MB)
+Completed:  'acceptcall_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (3,5 MB)
+Completed:  'emergency_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (5 MB)
+Completed:  'increasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (5,9 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (5,2 MB)
+Completed:  'switchtask.ogv', (,8 MB) in ,3 minutes.
+Completed:  'accept_innovative.ogv', (,5 MB) in ,2 minutes.
+Completed:  'forward_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'previous_innovative.avi', (4,1 MB)
+Converting: 'rejectcallphone_innovative.avi', (4,4 MB)
+Converting: 'reject_innovative.avi', (4,6 MB)
+Completed:  'decreasevolume_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'rewind_innovative.avi', (6,8 MB)
+Completed:  'next_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (4 MB)
+Completed:  'mute_innovative.ogv', (,5 MB) in ,1 minutes.
+Completed:  'maximize_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (5,8 MB)
+Converting: 'select_innovative.avi', (6,1 MB)
+Completed:  'open_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,8 MB)
+Completed:  'navigate_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'switchtask_innovative.avi', (10,1 MB)
+Completed:  'previous_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (8,1 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (8,5 MB)
+Completed:  'play_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'accept.avi', (6,6 MB)
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (6 MB)
+Completed:  'pause_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'close.avi', (6,4 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume.avi', (4,2 MB)
+Completed:  'shuffle_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'emergency.avi', (6,7 MB)
+Completed:  'rewind_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'forward.avi', (4,7 MB)
+Completed:  'scrollup_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (9,1 MB)
+Completed:  'select_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'maximize.avi', (6,2 MB)
+Completed:  'pause.ogv', (2 MB) in ,7 minutes.
+Converting: 'minimize.avi', (7,3 MB)
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute.avi', (6,1 MB)
+Completed:  'acceptcall.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate.avi', (8,8 MB)
+Completed:  'forward.ogv', (,3 MB) in ,1 minutes.
+Converting: 'next.avi', (4,8 MB)
+Completed:  'accept.ogv', (,4 MB) in ,2 minutes.
+Converting: 'open.avi', (4,2 MB)
+Completed:  'zoomout_innovative.ogv', (,7 MB) in ,2 minutes.
+Converting: 'pause.avi', (7,2 MB)
+Completed:  'zoomin_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'play.avi', (4,2 MB)
+Completed:  'close.ogv', (,4 MB) in ,2 minutes.
+Converting: 'previous.avi', (6,9 MB)
+Completed:  'emergency.ogv', (,4 MB) in ,2 minutes.
+Converting: 'reject.avi', (5,5 MB)
+Completed:  'switchtask_innovative.ogv', (,6 MB) in ,3 minutes.
+Converting: 'rejectcallphone.avi', (6,4 MB)
+Completed:  'maximize.ogv', (,3 MB) in ,2 minutes.
+Converting: 'rewind.avi', (5,9 MB)
+Completed:  'next.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (4,5 MB)
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrollup.avi', (8,2 MB)
+Completed:  'mute.ogv', (,3 MB) in ,2 minutes.
+Converting: 'select.avi', (5,9 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (5,3 MB)
+Completed:  'minimize.ogv', (,4 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (6 MB)
+Completed:  'increasevolume.ogv', (,5 MB) in ,3 minutes.
+Converting: 'zoomin.avi', (6,1 MB)
+Completed:  'reject.ogv', (,3 MB) in ,2 minutes.
+Converting: 'zoomout.avi', (6,1 MB)
+Completed:  'pause.ogv', (,4 MB) in ,2 minutes.
+Completed:  'previous.ogv', (,4 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (6,4 MB)
+Completed:  'navigate.ogv', (,5 MB) in ,3 minutes.
+Converting: 'accept_innovative.avi', (4 MB)
+Converting: 'close_innovative.avi', (5,1 MB)
+Completed:  'scrolldown.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rejectcallphone.ogv', (,4 MB) in ,2 minutes.
+Completed:  'rewind.ogv', (,3 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (4,7 MB)
+Converting: 'emergency_innovative.avi', (7 MB)
+Converting: 'forward_innovative.avi', (4,2 MB)
+Completed:  'shuffle.ogv', (,3 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (8,4 MB)
+Completed:  'select.ogv', (,3 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (6,1 MB)
+Completed:  'zoomin.ogv', (,3 MB) in ,2 minutes.
+Converting: 'minimize_innovative.avi', (4,5 MB)
+Completed:  'switchtask.ogv', (,3 MB) in ,2 minutes.
+Converting: 'mute_innovative.avi', (4,9 MB)
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (5,5 MB)
+Completed:  'scrollup.ogv', (,4 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (6,4 MB)
+Completed:  'acceptcall_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'open_innovative.avi', (4,9 MB)
+Completed:  'forward_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (5,8 MB)
+Completed:  'decreasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (7,1 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,2 minutes.
+Completed:  'zoomout.ogv', (,3 MB) in ,2 minutes.
+Converting: 'previous_innovative.avi', (6 MB)
+Converting: 'rejectcallphone_innovative.avi', (6,4 MB)
+Completed:  'emergency_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (7,2 MB)
+Completed:  'minimize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (6,1 MB)
+Completed:  'mute_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (6,1 MB)
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (4,7 MB)
+Completed:  'open_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (7,2 MB)
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'shuffle_innovative.avi', (4,9 MB)
+Completed:  'next_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'switchtask_innovative.avi', (8,1 MB)
+Completed:  'increasevolume_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'zoomin_innovative.avi', (5 MB)
+Completed:  'pause_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'zoomout_innovative.avi', (5,7 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (4,9 MB)
+Completed:  'play_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (6,7 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (3,6 MB)
+Completed:  'rewind_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (6 MB)
+Completed:  'scrollup_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (2,3 MB)
+Completed:  'scrolldown_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (3,5 MB)
+Completed:  'reject_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (2,5 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (5 MB)
+Completed:  'zoomin_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (4,7 MB)
+Completed:  'emergency_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (6,3 MB)
+Completed:  'acceptcall_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (3,2 MB)
+Completed:  'close_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'zoomout_innovative.ogv', (,3 MB) in ,2 minutes.
+Completed:  'increasevolume_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (3,6 MB)
+Completed:  'forward_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'select_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'open_innovative.avi', (4,8 MB)
+Converting: 'pause_innovative.avi', (5,2 MB)
+Converting: 'play_innovative.avi', (4,1 MB)
+Converting: 'previous_innovative.avi', (4,5 MB)
+Completed:  'switchtask_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rejectcallphone_innovative.avi', (2,4 MB)
+Completed:  'accept_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (3 MB)
+Completed:  'navigate_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (3 MB)
+Completed:  'decreasevolume_innovative.ogv', (,2 MB) in ,2 minutes.
+Converting: 'scrolldown_innovative.avi', (2,9 MB)
+Completed:  'maximize_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'mute_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (3,5 MB)
+Completed:  'next_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'minimize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (2,9 MB)
+Completed:  'play_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (4,1 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (3,3 MB)
+Converting: 'zoomin_innovative.avi', (4,5 MB)
+Completed:  'rewind_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'scrolldown_innovative.ogv', (,1 MB) in ,1 minutes.
+Completed:  'previous_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (4,8 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'accept.avi', (8,8 MB)
+Completed:  'reject_innovative.ogv', (,1 MB) in ,1 minutes.
+Completed:  'select_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (6,7 MB)
+Completed:  'scrollup_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'close.avi', (6,3 MB)
+Converting: 'decreasevolume.avi', (5,4 MB)
+Completed:  'switchtask_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency.avi', (9,3 MB)
+Completed:  'shuffle_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'forward.avi', (12,5 MB)
+Converting: 'increasevolume.avi', (9,6 MB)
+Converting: 'maximize.avi', (8,5 MB)
+Completed:  'zoomin_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize.avi', (4,3 MB)
+Converting: 'mute.avi', (6,8 MB)
+Converting: 'navigate.avi', (9,1 MB)
+Completed:  'zoomout_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'next.avi', (5,7 MB)
+Completed:  'decreasevolume.ogv', (,4 MB) in ,1 minutes.
+Converting: 'open.avi', (7,2 MB)
+Completed:  'acceptcall.ogv', (,5 MB) in ,2 minutes.
+Converting: 'pause.avi', (5 MB)
+Completed:  'close.ogv', (,4 MB) in ,2 minutes.
+Converting: 'play.avi', (6,1 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous.avi', (6,5 MB)
+Completed:  'emergency.ogv', (,6 MB) in ,2 minutes.
+Converting: 'reject.avi', (5,9 MB)
+Completed:  'accept.ogv', (,6 MB) in ,2 minutes.
+Converting: 'rejectcallphone.avi', (15,8 MB)
+Completed:  'next.ogv', (,4 MB) in ,1 minutes.
+Converting: 'rewind.avi', (7,1 MB)
+Completed:  'mute.ogv', (,5 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (5,2 MB)
+Completed:  'maximize.ogv', (,6 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (16,1 MB)
+Completed:  'pause.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select.avi', (6,2 MB)
+Completed:  'increasevolume.ogv', (,7 MB) in ,3 minutes.
+Converting: 'shuffle.avi', (6,8 MB)
+Completed:  'navigate.ogv', (,6 MB) in ,3 minutes.
+Converting: 'switchtask.avi', (8,7 MB)
+Completed:  'play.ogv', (,4 MB) in ,2 minutes.
+Converting: 'zoomin.avi', (4,4 MB)
+Completed:  'open.ogv', (,5 MB) in ,2 minutes.
+Completed:  'scrolldown.ogv', (,3 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,5 MB) in ,2 minutes.
+Completed:  'forward.ogv', (,8 MB) in ,3 minutes.
+Converting: 'zoomout.avi', (6,2 MB)
+Completed:  'reject.ogv', (,4 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (6,1 MB)
+Converting: 'accept_innovative.avi', (5,4 MB)
+Converting: 'close_innovative.avi', (4,9 MB)
+Converting: 'decreasevolume_innovative.avi', (5,7 MB)
+Completed:  'rewind.ogv', (,5 MB) in ,2 minutes.
+Converting: 'emergency_innovative.avi', (5,1 MB)
+Completed:  'select.ogv', (,4 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (2,7 MB)
+Completed:  'zoomin.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (3,7 MB)
+Completed:  'rejectcallphone.ogv', (1 MB) in ,3 minutes.
+Converting: 'maximize_innovative.avi', (6,5 MB)
+Completed:  'shuffle.ogv', (,5 MB) in ,2 minutes.
+Converting: 'minimize_innovative.avi', (4,4 MB)
+Completed:  'zoomout.ogv', (,5 MB) in ,2 minutes.
+Converting: 'mute_innovative.avi', (4,7 MB)
+Completed:  'switchtask.ogv', (,6 MB) in ,2 minutes.
+Completed:  'close_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (4,9 MB)
+Completed:  'accept_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (3,6 MB)
+Completed:  'acceptcall_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'emergency_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'forward_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (2,7 MB)
+Converting: 'pause_innovative.avi', (3,6 MB)
+Completed:  'decreasevolume_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'play_innovative.avi', (3,9 MB)
+Converting: 'previous_innovative.avi', (6,9 MB)
+Completed:  'increasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (6,6 MB)
+Converting: 'reject_innovative.avi', (4,7 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (4,3 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (4,5 MB)
+Completed:  'next_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (8,2 MB)
+Completed:  'mute_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (3,8 MB)
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (5 MB)
+Completed:  'navigate_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (5 MB)
+Completed:  'play_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'scrollup.ogv', (1,2 MB) in ,4 minutes.
+Converting: 'zoomin_innovative.avi', (5,6 MB)
+Completed:  'maximize_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'zoomout_innovative.avi', (4,1 MB)
+Converting: 'acceptcall_innovative.avi', (5 MB)
+Completed:  'reject_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'accept_innovative.avi', (3,4 MB)
+Completed:  'rewind_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'close_innovative.avi', (2,8 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume_innovative.avi', (3 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'emergency_innovative.avi', (10,1 MB)
+Completed:  'select_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'forward_innovative.avi', (3,3 MB)
+Completed:  'previous_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (3,2 MB)
+Completed:  'shuffle_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (3,6 MB)
+Completed:  'zoomout_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (,8 MB)
+Completed:  'close_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'switchtask_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (8,5 MB)
+Completed:  'accept_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (7,8 MB)
+Completed:  'decreasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'minimize_innovative.ogv', ( MB) in  minutes.
+Converting: 'next_innovative.avi', (10,5 MB)
+Completed:  'acceptcall_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'open_innovative.avi', (2,8 MB)
+Converting: 'pause_innovative.avi', (4,9 MB)
+Completed:  'forward_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'scrollup_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'play_innovative.avi', (1,2 MB)
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous_innovative.avi', (3,8 MB)
+Converting: 'rejectcallphone_innovative.avi', (7,6 MB)
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (4,2 MB)
+Completed:  'play_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'rewind_innovative.avi', (7,4 MB)
+Converting: 'scrolldown_innovative.avi', (4,3 MB)
+Converting: 'scrollup_innovative.avi', (4,6 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (4,8 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (6,6 MB)
+Completed:  'pause_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (5,4 MB)
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (5,2 MB)
+Completed:  'emergency_innovative.ogv', (,8 MB) in ,3 minutes.
+Converting: 'zoomout_innovative.avi', (5,3 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'navigate_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (3,9 MB)
+Completed:  'mute_innovative.ogv', (,7 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (3,1 MB)
+Completed:  'scrollup_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'close_innovative.avi', (3,6 MB)
+Converting: 'decreasevolume_innovative.avi', (3,8 MB)
+Completed:  'select_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (4 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (5,1 MB)
+Completed:  'rewind_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'increasevolume_innovative.avi', (3,3 MB)
+Completed:  'next_innovative.ogv', (,9 MB) in ,3 minutes.
+Converting: 'maximize_innovative.avi', (3,1 MB)
+Completed:  'acceptcall_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (4,4 MB)
+Completed:  'switchtask_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (3,2 MB)
+Converting: 'navigate_innovative.avi', (4,4 MB)
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (3,7 MB)
+Completed:  'shuffle_innovative.ogv', (,6 MB) in ,2 minutes.
+Completed:  'close_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'zoomout_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (3,6 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (3,4 MB)
+Converting: 'play_innovative.avi', (3,4 MB)
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous_innovative.avi', (3,2 MB)
+Converting: 'rejectcallphone_innovative.avi', (3,8 MB)
+Completed:  'maximize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (3,6 MB)
+Converting: 'rewind_innovative.avi', (3,3 MB)
+Completed:  'mute_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (3,5 MB)
+Completed:  'forward_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (2,8 MB)
+Completed:  'next_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (3,7 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,8 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (3,3 MB)
+Completed:  'play_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (3,7 MB)
+Completed:  'previous_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (3,8 MB)
+Converting: 'acceptcall_innovative.avi', (5 MB)
+Completed:  'rewind_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'accept_innovative.avi', (3,1 MB)
+Completed:  'reject_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rejectcallphone_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'scrollup_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'close_innovative.avi', (3,8 MB)
+Converting: 'decreasevolume_innovative.avi', (5,3 MB)
+Completed:  'scrolldown_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (2,6 MB)
+Converting: 'forward_innovative.avi', (1,9 MB)
+Converting: 'increasevolume_innovative.avi', (4,2 MB)
+Completed:  'select_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (3,2 MB)
+Completed:  'switchtask_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (4,2 MB)
+Converting: 'mute_innovative.avi', (3 MB)
+Completed:  'zoomin_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (3,7 MB)
+Completed:  'accept_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'forward_innovative.ogv', (,1 MB) in  minutes.
+Converting: 'next_innovative.avi', (4,5 MB)
+Completed:  'zoomout_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'emergency_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (3,2 MB)
+Converting: 'pause_innovative.avi', (2,8 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (3,5 MB)
+Converting: 'previous_innovative.avi', (5,3 MB)
+Completed:  'acceptcall_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (3,1 MB)
+Completed:  'maximize_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (5,4 MB)
+Completed:  'mute_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (2 MB)
+Completed:  'increasevolume_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (4,7 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (5,8 MB)
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (5 MB)
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'navigate_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,1 MB)
+Converting: 'switchtask_innovative.avi', (3,6 MB)
+Completed:  'rewind_innovative.ogv', (,1 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (4,5 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'play_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'next_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (3,4 MB)
+Converting: 'acceptcall_innovative.avi', (3,8 MB)
+Converting: 'accept_innovative.avi', (5,1 MB)
+Converting: 'close_innovative.avi', (4,1 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (5 MB)
+Completed:  'shuffle_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (4,3 MB)
+Completed:  'reject_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (4,2 MB)
+Completed:  'scrolldown_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (4 MB)
+Completed:  'switchtask_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (4,6 MB)
+Completed:  'zoomout_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (4 MB)
+Completed:  'acceptcall_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (3,8 MB)
+Completed:  'select_innovative.ogv', (,3 MB) in ,2 minutes.
+Completed:  'scrollup_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate_innovative.avi', (6,1 MB)
+Completed:  'zoomin_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (6,7 MB)
+Completed:  'close_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (3,4 MB)
+Completed:  'accept_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (5,4 MB)
+Converting: 'play_innovative.avi', (4,1 MB)
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous_innovative.avi', (6,4 MB)
+Completed:  'forward_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (4,2 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'increasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (3,9 MB)
+Converting: 'rewind_innovative.avi', (6,2 MB)
+Completed:  'mute_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'minimize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (5,8 MB)
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (5,4 MB)
+Converting: 'select_innovative.avi', (4,2 MB)
+Completed:  'open_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,8 MB)
+Completed:  'play_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (3,4 MB)
+Completed:  'pause_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (5,3 MB)
+Completed:  'navigate_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'rejectcallphone_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (5,4 MB)
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall_innovative.avi', (10,9 MB)
+Completed:  'next_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (4,1 MB)
+Converting: 'close_innovative.avi', (5,3 MB)
+Completed:  'previous_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (3,6 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (3,7 MB)
+Completed:  'select_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'rewind_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'forward_innovative.avi', (32,5 MB)
+Completed:  'scrollup_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'switchtask_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (3,5 MB)
+Converting: 'maximize_innovative.avi', (3,7 MB)
+Completed:  'scrolldown_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'minimize_innovative.avi', (7,6 MB)
+Converting: 'mute_innovative.avi', (7,2 MB)
+Completed:  'decreasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (18 MB)
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'accept_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'next_innovative.avi', (7,6 MB)
+Completed:  'emergency_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (4,7 MB)
+Completed:  'zoomout_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (3,5 MB)
+Converting: 'play_innovative.avi', (6,3 MB)
+Completed:  'maximize_innovative.ogv', (,2 MB) in ,1 minutes.
+Completed:  'increasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous_innovative.avi', (3,8 MB)
+Completed:  'close_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (3,8 MB)
+Converting: 'reject_innovative.avi', (5,8 MB)
+Completed:  'acceptcall_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'rewind_innovative.avi', (4,2 MB)
+Completed:  'mute_innovative.ogv', (,5 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (9,9 MB)
+Completed:  'pause_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (2,5 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (3,9 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,8 MB)
+Completed:  'open_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'switchtask_innovative.avi', (5,8 MB)
+Completed:  'rewind_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (3,4 MB)
+Completed:  'play_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (6 MB)
+Completed:  'minimize_innovative.ogv', (,6 MB) in ,2 minutes.
+Completed:  'scrollup_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'acceptcall_innovative.avi', (5,6 MB)
+Converting: 'accept_innovative.avi', (5 MB)
+Completed:  'next_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (6,2 MB)
+Completed:  'reject_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (6,9 MB)
+Completed:  'select_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (7,6 MB)
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'forward_innovative.avi', (5 MB)
+Completed:  'zoomin_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (4,1 MB)
+Completed:  'switchtask_innovative.ogv', (,5 MB) in ,1 minutes.
+Converting: 'maximize_innovative.avi', (4,4 MB)
+Completed:  'scrolldown_innovative.ogv', (,8 MB) in ,2 minutes.
+Converting: 'minimize_innovative.avi', (10,9 MB)
+Completed:  'accept_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'mute_innovative.avi', (6,1 MB)
+Completed:  'acceptcall_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate_innovative.avi', (5,4 MB)
+Completed:  'zoomout_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (7,3 MB)
+Completed:  'close_innovative.ogv', (,5 MB) in ,1 minutes.
+Converting: 'open_innovative.avi', (4,1 MB)
+Completed:  'increasevolume_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause_innovative.avi', (4,4 MB)
+Completed:  'forward_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play_innovative.avi', (2,5 MB)
+Completed:  'maximize_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'decreasevolume_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'previous_innovative.avi', (3,6 MB)
+Converting: 'rejectcallphone_innovative.avi', (4,2 MB)
+Completed:  'emergency_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (4 MB)
+Completed:  'play_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rewind_innovative.avi', (6,4 MB)
+Completed:  'mute_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'scrolldown_innovative.avi', (5 MB)
+Completed:  'pause_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrollup_innovative.avi', (2,9 MB)
+Completed:  'open_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select_innovative.avi', (6 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'navigate_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (3,1 MB)
+Converting: 'switchtask_innovative.avi', (4,9 MB)
+Completed:  'reject_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin_innovative.avi', (5,2 MB)
+Completed:  'navigate_innovative.ogv', (1,3 MB) in ,5 minutes.
+Completed:  'next_innovative.ogv', (,5 MB) in ,2 minutes.
+Completed:  'rejectcallphone_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout_innovative.avi', (6,6 MB)
+Converting: 'acceptcall_innovative.avi', (5,2 MB)
+Completed:  'scrollup_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'accept_innovative.avi', (7,8 MB)
+Converting: 'close_innovative.avi', (6,8 MB)
+Completed:  'minimize_innovative.ogv', (,8 MB) in ,3 minutes.
+Converting: 'decreasevolume_innovative.avi', (6,5 MB)
+Completed:  'scrolldown_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'emergency_innovative.avi', (5,7 MB)
+Completed:  'shuffle_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'forward_innovative.avi', (11,2 MB)
+Completed:  'rewind_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (11,9 MB)
+Completed:  'forward_innovative.ogv', (2 MB) in ,6 minutes.
+Converting: 'maximize_innovative.avi', (5,9 MB)
+Completed:  'switchtask_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize_innovative.avi', (6,2 MB)
+Completed:  'select_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'mute_innovative.avi', (7,2 MB)
+Completed:  'zoomin_innovative.ogv', (,4 MB) in ,1 minutes.
+Converting: 'navigate_innovative.avi', (4,4 MB)
+Completed:  'acceptcall_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'next_innovative.avi', (13,8 MB)
+Completed:  'zoomout_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'open_innovative.avi', (8,9 MB)
+Completed:  'close_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'pause_innovative.avi', (8,7 MB)
+Completed:  'emergency_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'play_innovative.avi', (6,5 MB)
+Completed:  'decreasevolume_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'previous_innovative.avi', (7,4 MB)
+Completed:  'accept_innovative.ogv', (,5 MB) in ,2 minutes.
+Completed:  'navigate_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone_innovative.avi', (4,4 MB)
+Completed:  'maximize_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'reject_innovative.avi', (7,2 MB)
+Converting: 'rewind_innovative.avi', (6,8 MB)
+Completed:  'minimize_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'scrolldown_innovative.avi', (7,3 MB)
+Completed:  'mute_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'scrollup_innovative.avi', (7,9 MB)
+Completed:  'forward_innovative.ogv', (,8 MB) in ,3 minutes.
+Converting: 'select_innovative.avi', (5,4 MB)
+Completed:  'rejectcallphone_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (15,6 MB)
+Completed:  'play_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'switchtask_innovative.avi', (8,7 MB)
+Completed:  'open_innovative.ogv', (,7 MB) in ,3 minutes.
+Converting: 'zoomin_innovative.avi', (7,6 MB)
+Completed:  'increasevolume_innovative.ogv', (,8 MB) in ,4 minutes.
+Converting: 'zoomout_innovative.avi', (6,9 MB)
+Completed:  'pause_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'acceptcall_innovative.avi', (7,4 MB)
+Completed:  'previous_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'accept_innovative.avi', (15,5 MB)
+Completed:  'reject_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'close_innovative.avi', (14 MB)
+Completed:  'rewind_innovative.ogv', (,4 MB) in ,2 minutes.
+Converting: 'decreasevolume_innovative.avi', (9,2 MB)
+Completed:  'scrolldown_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'emergency_innovative.avi', (16,7 MB)
+Completed:  'select_innovative.ogv', (,3 MB) in ,2 minutes.
+Converting: 'forward_innovative.avi', (12,7 MB)
+Completed:  'acceptcall_innovative.ogv', (,2 MB) in ,1 minutes.
+Converting: 'increasevolume_innovative.avi', (14,9 MB)
+Completed:  'scrollup_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'maximize_innovative.avi', (12,5 MB)
+Completed:  'next_innovative.ogv', (,8 MB) in ,4 minutes.
+Converting: 'minimize_innovative.avi', (8,9 MB)
+Completed:  'switchtask_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'mute_innovative.avi', (11,6 MB)
+Completed:  'zoomout_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'zoomin_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'navigate_innovative.avi', (13,2 MB)
+Converting: 'next_innovative.avi', (6,2 MB)
+Completed:  'decreasevolume_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'open_innovative.avi', (12,6 MB)
+Completed:  'minimize_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'pause_innovative.avi', (9,4 MB)
+Completed:  'emergency_innovative.ogv', (,9 MB) in ,3 minutes.
+Completed:  'close_innovative.ogv', (,8 MB) in ,3 minutes.
+Converting: 'play_innovative.avi', (8,3 MB)
+Converting: 'previous_innovative.avi', (6 MB)
+Completed:  'forward_innovative.ogv', (,7 MB) in ,3 minutes.
+Converting: 'rejectcallphone_innovative.avi', (8,4 MB)
+Completed:  'next_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject_innovative.avi', (18,6 MB)
+Completed:  'accept_innovative.ogv', (,9 MB) in ,4 minutes.
+Converting: 'rewind_innovative.avi', (13,2 MB)
+Completed:  'maximize_innovative.ogv', (,6 MB) in ,3 minutes.
+Completed:  'shuffle_innovative.ogv', (1 MB) in ,5 minutes.
+Converting: 'scrolldown_innovative.avi', (11,4 MB)
+Converting: 'scrollup_innovative.avi', (8,4 MB)
+Completed:  'mute_innovative.ogv', (,6 MB) in ,2 minutes.
+Converting: 'select_innovative.avi', (14 MB)
+Completed:  'previous_innovative.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle_innovative.avi', (7,7 MB)
+Completed:  'increasevolume_innovative.ogv', (,7 MB) in ,3 minutes.
+Converting: 'switchtask_innovative.avi', (34,1 MB)
+Completed:  'navigate_innovative.ogv', (,8 MB) in ,3 minutes.
+Converting: 'zoomin_innovative.avi', (14 MB)
+Completed:  'pause_innovative.ogv', (,5 MB) in ,2 minutes.
+Converting: 'zoomout_innovative.avi', (7,7 MB)
+Completed:  'open_innovative.ogv', (,7 MB) in ,3 minutes.
+Completed:  'play_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'rejectcallphone_innovative.ogv', (,5 MB) in ,2 minutes.
+Completed:  'shuffle_innovative.ogv', (,3 MB) in ,1 minutes.
+Completed:  'scrollup_innovative.ogv', (,4 MB) in ,2 minutes.
+Completed:  'scrolldown_innovative.ogv', (,6 MB) in ,2 minutes.
+Completed:  'rewind_innovative.ogv', (,7 MB) in ,2 minutes.
+Completed:  'zoomout_innovative.ogv', (,4 MB) in ,1 minutes.
+Completed:  'select_innovative.ogv', (,8 MB) in ,3 minutes.
+Completed:  'reject_innovative.ogv', (1,1 MB) in ,3 minutes.
+Completed:  'zoomin_innovative.ogv', (,7 MB) in ,2 minutes.
+Completed:  'switchtask_innovative.ogv', (2,2 MB) in ,4 minutes.
+Finished processing all files at 10.03.2016 18:24
+----------------------------------------------------------------------------
+Theora Converter .NET
+10 Mart 2016 Perşembe 18:32:46
+
+ffmpeg2theora options: 
+ --videoquality 2 --pp default --audioquality 2 --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: C:\Users\OğuzTuran\Desktop\ExportedVideo
+Converting: 'accept.avi', (3,8 MB)
+Converting: 'acceptcall.avi', (4 MB)
+Converting: 'close.avi', (2,8 MB)
+Converting: 'decreasevolume.avi', (3,9 MB)
+Converting: 'emergency.avi', (2,8 MB)
+Converting: 'forward.avi', (3,5 MB)
+Completed:  'acceptcall.ogv', (,2 MB) in  minutes.
+Converting: 'increasevolume.avi', (5 MB)
+Converting: 'maximize.avi', (2,3 MB)
+Completed:  'close.ogv', (,1 MB) in  minutes.
+Converting: 'minimize.avi', (3,7 MB)
+Completed:  'accept.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute.avi', (11 MB)
+Completed:  'emergency.ogv', (,1 MB) in  minutes.
+Completed:  'forward.ogv', (,2 MB) in  minutes.
+Converting: 'navigate.avi', (6,2 MB)
+Converting: 'next.avi', (3,3 MB)
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open.avi', (3,2 MB)
+Completed:  'maximize.ogv', (,1 MB) in  minutes.
+Completed:  'increasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'pause.avi', (5,9 MB)
+Converting: 'play.avi', (3,6 MB)
+Converting: 'previous.avi', (3,6 MB)
+Converting: 'reject.avi', (4,9 MB)
+Completed:  'minimize.ogv', (,2 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (2,7 MB)
+Converting: 'rewind.avi', (5,4 MB)
+Completed:  'next.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (8,8 MB)
+Converting: 'scrollup.avi', (6,2 MB)
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Completed:  'mute.ogv', (,5 MB) in ,1 minutes.
+Completed:  'play.ogv', (,1 MB) in ,1 minutes.
+Converting: 'select.avi', (3,7 MB)
+Completed:  'navigate.ogv', (,3 MB) in ,1 minutes.
+Completed:  'pause.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (13,5 MB)
+Completed:  'previous.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rejectcallphone.ogv', (,1 MB) in  minutes.
+Converting: 'switchtask.avi', (4,2 MB)
+Converting: 'zoomin.avi', (5,5 MB)
+Completed:  'rewind.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (2,5 MB)
+Completed:  'select.ogv', (,2 MB) in  minutes.
+Converting: 'accept.avi', (8,4 MB)
+Converting: 'acceptcall.avi', (6,8 MB)
+Completed:  'reject.ogv', (,2 MB) in ,1 minutes.
+Completed:  'switchtask.ogv', (,2 MB) in  minutes.
+Converting: 'close.avi', (7,2 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume.avi', (8,3 MB)
+Converting: 'emergency.avi', (15,9 MB)
+Completed:  'zoomout.ogv', (,1 MB) in  minutes.
+Converting: 'forward.avi', (7,6 MB)
+Converting: 'increasevolume.avi', (7,9 MB)
+Converting: 'maximize.avi', (11,2 MB)
+Converting: 'minimize.avi', (9,7 MB)
+Completed:  'zoomin.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute.avi', (6,4 MB)
+Completed:  'scrolldown.ogv', (,4 MB) in ,2 minutes.
+Converting: 'navigate.avi', (11,1 MB)
+Completed:  'shuffle.ogv', (,6 MB) in ,2 minutes.
+Converting: 'next.avi', (8,5 MB)
+Completed:  'acceptcall.ogv', (,5 MB) in ,2 minutes.
+Converting: 'open.avi', (5,4 MB)
+Completed:  'close.ogv', (,6 MB) in ,2 minutes.
+Converting: 'pause.avi', (3,3 MB)
+Completed:  'accept.ogv', (,6 MB) in ,2 minutes.
+Converting: 'play.avi', (24,7 MB)
+Completed:  'decreasevolume.ogv', (,6 MB) in ,2 minutes.
+Converting: 'previous.avi', (14,9 MB)
+Completed:  'forward.ogv', (,5 MB) in ,2 minutes.
+Completed:  'mute.ogv', (,5 MB) in ,2 minutes.
+Converting: 'reject.avi', (7,8 MB)
+Converting: 'rejectcallphone.avi', (8,5 MB)
+Completed:  'increasevolume.ogv', (,6 MB) in ,2 minutes.
+Converting: 'rewind.avi', (12 MB)
+Completed:  'pause.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (6,1 MB)
+Completed:  'minimize.ogv', (,8 MB) in ,3 minutes.
+Converting: 'scrollup.avi', (5,7 MB)
+Completed:  'open.ogv', (,4 MB) in ,2 minutes.
+Converting: 'select.avi', (7,2 MB)
+Completed:  'maximize.ogv', (,9 MB) in ,3 minutes.
+Converting: 'shuffle.avi', (10,6 MB)
+Completed:  'next.ogv', (,7 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (7,4 MB)
+Completed:  'navigate.ogv', (,9 MB) in ,3 minutes.
+Converting: 'zoomin.avi', (7,8 MB)
+Completed:  'scrolldown.ogv', (,5 MB) in ,2 minutes.
+Converting: 'zoomout.avi', (6,3 MB)
+Completed:  'emergency.ogv', (1,3 MB) in ,5 minutes.
+Completed:  'scrollup.ogv', (,5 MB) in ,2 minutes.
+Converting: 'accept.avi', (5,3 MB)
+Completed:  'reject.ogv', (,7 MB) in ,3 minutes.
+Converting: 'acceptcall.avi', (3,6 MB)
+Converting: 'close.avi', (3,6 MB)
+Completed:  'rejectcallphone.ogv', (,6 MB) in ,3 minutes.
+Converting: 'decreasevolume.avi', (3,3 MB)
+Completed:  'switchtask.ogv', (,6 MB) in ,2 minutes.
+Converting: 'emergency.avi', (7,7 MB)
+Completed:  'select.ogv', (,6 MB) in ,2 minutes.
+Converting: 'forward.avi', (7 MB)
+Completed:  'acceptcall.ogv', (,2 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (4,2 MB)
+Completed:  'rewind.ogv', (,9 MB) in ,3 minutes.
+Converting: 'maximize.avi', (3,5 MB)
+Completed:  'close.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize.avi', (3,2 MB)
+Completed:  'decreasevolume.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute.avi', (4,8 MB)
+Completed:  'zoomin.ogv', (,6 MB) in ,2 minutes.
+Converting: 'navigate.avi', (5,1 MB)
+Completed:  'zoomout.ogv', (,5 MB) in ,2 minutes.
+Converting: 'next.avi', (2,3 MB)
+Completed:  'accept.ogv', (,3 MB) in ,2 minutes.
+Converting: 'open.avi', (2,7 MB)
+Completed:  'shuffle.ogv', (,9 MB) in ,3 minutes.
+Converting: 'pause.avi', (5,4 MB)
+Completed:  'previous.ogv', (1,2 MB) in ,5 minutes.
+Converting: 'play.avi', (4,3 MB)
+Completed:  'maximize.ogv', (,2 MB) in ,1 minutes.
+Converting: 'previous.avi', (3,4 MB)
+Completed:  'next.ogv', (,1 MB) in ,1 minutes.
+Completed:  'minimize.ogv', (,2 MB) in ,1 minutes.
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject.avi', (3,1 MB)
+Converting: 'rejectcallphone.avi', (3,8 MB)
+Converting: 'rewind.avi', (3,4 MB)
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (3,8 MB)
+Completed:  'mute.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (3,7 MB)
+Completed:  'forward.ogv', (,5 MB) in ,2 minutes.
+Converting: 'select.avi', (2,8 MB)
+Completed:  'navigate.ogv', (,3 MB) in ,2 minutes.
+Converting: 'shuffle.avi', (17 MB)
+Completed:  'emergency.ogv', (,5 MB) in ,3 minutes.
+Converting: 'switchtask.avi', (3,6 MB)
+Completed:  'play.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomin.avi', (4 MB)
+Completed:  'previous.ogv', (,2 MB) in ,1 minutes.
+Completed:  'reject.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rewind.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (3,6 MB)
+Completed:  'pause.ogv', (,3 MB) in ,2 minutes.
+Converting: 'accept.avi', (3,1 MB)
+Converting: 'acceptcall.avi', (6,2 MB)
+Completed:  'rejectcallphone.ogv', (,2 MB) in ,1 minutes.
+Converting: 'close.avi', (3,2 MB)
+Converting: 'decreasevolume.avi', (8,2 MB)
+Completed:  'scrolldown.ogv', (,2 MB) in ,1 minutes.
+Converting: 'emergency.avi', (8,8 MB)
+Completed:  'select.ogv', (,2 MB) in ,1 minutes.
+Converting: 'forward.avi', (6,1 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (3,9 MB)
+Completed:  'switchtask.ogv', (,2 MB) in ,1 minutes.
+Converting: 'maximize.avi', (7,5 MB)
+Completed:  'accept.ogv', (,2 MB) in ,1 minutes.
+Converting: 'minimize.avi', (5,5 MB)
+Completed:  'zoomin.ogv', (,2 MB) in ,1 minutes.
+Converting: 'mute.avi', (5,6 MB)
+Completed:  'zoomout.ogv', (,2 MB) in ,1 minutes.
+Completed:  'play.ogv', (2,1 MB) in ,8 minutes.
+Completed:  'close.ogv', (,2 MB) in ,1 minutes.
+Converting: 'navigate.avi', (4 MB)
+Converting: 'next.avi', (3,9 MB)
+Converting: 'open.avi', (4,1 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause.avi', (3 MB)
+Completed:  'acceptcall.ogv', (,4 MB) in ,2 minutes.
+Converting: 'play.avi', (3,4 MB)
+Completed:  'forward.ogv', (,3 MB) in ,2 minutes.
+Converting: 'previous.avi', (3,4 MB)
+Completed:  'navigate.ogv', (,3 MB) in ,1 minutes.
+Converting: 'reject.avi', (7,6 MB)
+Completed:  'open.ogv', (,2 MB) in ,1 minutes.
+Completed:  'next.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (4,5 MB)
+Completed:  'mute.ogv', (,4 MB) in ,2 minutes.
+Converting: 'rewind.avi', (2,1 MB)
+Completed:  'pause.ogv', (,2 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (4,8 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (4,6 MB)
+Completed:  'decreasevolume.ogv', (,5 MB) in ,3 minutes.
+Converting: 'select.avi', (5,2 MB)
+Completed:  'emergency.ogv', (,6 MB) in ,3 minutes.
+Converting: 'shuffle.avi', (2,5 MB)
+Completed:  'maximize.ogv', (,5 MB) in ,3 minutes.
+Converting: 'switchtask.avi', (5 MB)
+Converting: 'zoomin.avi', (5,6 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Completed:  'rewind.ogv', (,2 MB) in ,1 minutes.
+Completed:  'previous.ogv', (,2 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (8,1 MB)
+Converting: 'accept.avi', (4,8 MB)
+Converting: 'acceptcall.avi', (4,2 MB)
+Completed:  'shuffle.ogv', (,2 MB) in ,1 minutes.
+Converting: 'close.avi', (4,7 MB)
+Completed:  'rejectcallphone.ogv', (,3 MB) in ,1 minutes.
+Converting: 'decreasevolume.avi', (13,1 MB)
+Completed:  'scrolldown.ogv', (,4 MB) in ,1 minutes.
+Converting: 'emergency.avi', (4,2 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'forward.avi', (11,6 MB)
+Completed:  'select.ogv', (,3 MB) in ,2 minutes.
+Converting: 'increasevolume.avi', (3,9 MB)
+Completed:  'acceptcall.ogv', (,3 MB) in ,1 minutes.
+Converting: 'maximize.avi', (4,1 MB)
+Completed:  'switchtask.ogv', (,3 MB) in ,2 minutes.
+Completed:  'shuffle.ogv', (1,1 MB) in ,5 minutes.
+Completed:  'accept.ogv', (,3 MB) in ,1 minutes.
+Converting: 'minimize.avi', (5,4 MB)
+Completed:  'reject.ogv', (,4 MB) in ,2 minutes.
+Converting: 'mute.avi', (4,7 MB)
+Converting: 'navigate.avi', (5,9 MB)
+Completed:  'zoomin.ogv', (,4 MB) in ,2 minutes.
+Converting: 'next.avi', (3,8 MB)
+Completed:  'close.ogv', (,3 MB) in ,1 minutes.
+Converting: 'open.avi', (4,4 MB)
+Converting: 'pause.avi', (5,2 MB)
+Completed:  'emergency.ogv', (,3 MB) in ,1 minutes.
+Converting: 'play.avi', (5,6 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'previous.avi', (3,9 MB)
+Completed:  'zoomout.ogv', (,5 MB) in ,3 minutes.
+Converting: 'reject.avi', (4,2 MB)
+Completed:  'maximize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rejectcallphone.avi', (5,2 MB)
+Completed:  'next.ogv', (,3 MB) in ,1 minutes.
+Converting: 'rewind.avi', (6,2 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,2 minutes.
+Completed:  'mute.ogv', (,3 MB) in ,2 minutes.
+Completed:  'open.ogv', (,3 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (5,2 MB)
+Converting: 'scrollup.avi', (4,3 MB)
+Converting: 'select.avi', (28,2 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,2 minutes.
+Converting: 'shuffle.avi', (4,5 MB)
+Completed:  'previous.ogv', (,3 MB) in ,1 minutes.
+Converting: 'switchtask.avi', (4 MB)
+Completed:  'pause.ogv', (,3 MB) in ,2 minutes.
+Completed:  'play.ogv', (,3 MB) in ,2 minutes.
+Converting: 'zoomin.avi', (4,2 MB)
+Converting: 'zoomout.avi', (9,5 MB)
+Completed:  'reject.ogv', (,3 MB) in ,1 minutes.
+Converting: 'accept.avi', (4,2 MB)
+Completed:  'rejectcallphone.ogv', (,4 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (10,7 MB)
+Completed:  'forward.ogv', (,8 MB) in ,3 minutes.
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'close.avi', (10,9 MB)
+Converting: 'decreasevolume.avi', (9,7 MB)
+Completed:  'rewind.ogv', (,4 MB) in ,2 minutes.
+Converting: 'emergency.avi', (26,1 MB)
+Completed:  'scrolldown.ogv', (,3 MB) in ,1 minutes.
+Completed:  'decreasevolume.ogv', (,8 MB) in ,4 minutes.
+Completed:  'switchtask.ogv', (,3 MB) in ,1 minutes.
+Converting: 'forward.avi', (14,7 MB)
+Converting: 'increasevolume.avi', (4,1 MB)
+Completed:  'zoomin.ogv', (,3 MB) in ,1 minutes.
+Completed:  'shuffle.ogv', (,3 MB) in ,1 minutes.
+Converting: 'maximize.avi', (5,8 MB)
+Converting: 'minimize.avi', (4,7 MB)
+Converting: 'mute.avi', (7,9 MB)
+Completed:  'accept.ogv', (,3 MB) in ,1 minutes.
+Converting: 'navigate.avi', (10,8 MB)
+Completed:  'increasevolume.ogv', (,3 MB) in ,1 minutes.
+Converting: 'next.avi', (10,5 MB)
+Completed:  'maximize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'open.avi', (8,5 MB)
+Completed:  'minimize.ogv', (,3 MB) in ,1 minutes.
+Converting: 'pause.avi', (9,1 MB)
+Completed:  'acceptcall.ogv', (,8 MB) in ,2 minutes.
+Converting: 'play.avi', (39,3 MB)
+Completed:  'zoomout.ogv', (,6 MB) in ,3 minutes.
+Completed:  'mute.ogv', (,5 MB) in ,1 minutes.
+Converting: 'previous.avi', (7,7 MB)
+Converting: 'reject.avi', (15,6 MB)
+Completed:  'decreasevolume.ogv', (,7 MB) in ,2 minutes.
+Converting: 'rejectcallphone.avi', (18,6 MB)
+Completed:  'close.ogv', (,9 MB) in ,3 minutes.
+Converting: 'rewind.avi', (26,3 MB)
+Completed:  'forward.ogv', (,9 MB) in ,3 minutes.
+Converting: 'scrolldown.avi', (13,5 MB)
+Completed:  'navigate.ogv', (,9 MB) in ,3 minutes.
+Converting: 'scrollup.avi', (7,1 MB)
+Completed:  'previous.ogv', (,5 MB) in ,2 minutes.
+Converting: 'select.avi', (17,7 MB)
+Completed:  'pause.ogv', (,6 MB) in ,2 minutes.
+Converting: 'shuffle.avi', (16 MB)
+Completed:  'open.ogv', (,6 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (15 MB)
+Completed:  'next.ogv', (,7 MB) in ,3 minutes.
+Converting: 'zoomin.avi', (6,5 MB)
+Completed:  'scrollup.ogv', (,6 MB) in ,2 minutes.
+Converting: 'zoomout.avi', (24,5 MB)
+Completed:  'emergency.ogv', (1,9 MB) in ,6 minutes.
+Converting: 'accept.avi', (9,5 MB)
+Completed:  'scrolldown.ogv', (,9 MB) in ,3 minutes.
+Converting: 'acceptcall.avi', (6,3 MB)
+Completed:  'zoomin.ogv', (,5 MB) in ,2 minutes.
+Completed:  'rejectcallphone.ogv', (1,4 MB) in ,4 minutes.
+Converting: 'close.avi', (4,8 MB)
+Converting: 'decreasevolume.avi', (4,3 MB)
+Completed:  'reject.ogv', (1,1 MB) in ,5 minutes.
+Converting: 'emergency.avi', (3,9 MB)
+Completed:  'select.ogv', (2 MB) in ,8 minutes.
+Converting: 'forward.avi', (4,6 MB)
+Completed:  'close.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (4,3 MB)
+Completed:  'decreasevolume.ogv', (,3 MB) in ,1 minutes.
+Completed:  'switchtask.ogv', (1,2 MB) in ,3 minutes.
+Completed:  'emergency.ogv', (,3 MB) in ,1 minutes.
+Converting: 'maximize.avi', (5,5 MB)
+Converting: 'minimize.avi', (1,7 MB)
+Converting: 'mute.avi', (12 MB)
+Completed:  'rewind.ogv', (1,5 MB) in ,5 minutes.
+Converting: 'navigate.avi', (6,8 MB)
+Completed:  'acceptcall.ogv', (,4 MB) in ,2 minutes.
+Converting: 'next.avi', (4,5 MB)
+Completed:  'forward.ogv', (,2 MB) in ,1 minutes.
+Converting: 'open.avi', (2,5 MB)
+Completed:  'minimize.ogv', (,1 MB) in  minutes.
+Converting: 'pause.avi', (6,3 MB)
+Completed:  'accept.ogv', (,7 MB) in ,2 minutes.
+Converting: 'play.avi', (3,3 MB)
+Completed:  'increasevolume.ogv', (,4 MB) in ,1 minutes.
+Converting: 'previous.avi', (1,6 MB)
+Completed:  'shuffle.ogv', (1,3 MB) in ,5 minutes.
+Converting: 'reject.avi', (7,2 MB)
+Completed:  'select.ogv', (1 MB) in ,5 minutes.
+Converting: 'rejectcallphone.avi', (6,4 MB)
+Completed:  'open.ogv', (,1 MB) in ,1 minutes.
+Converting: 'rewind.avi', (4,9 MB)
+Completed:  'maximize.ogv', (,4 MB) in ,1 minutes.
+Converting: 'scrolldown.avi', (4,5 MB)
+Completed:  'previous.ogv', (,1 MB) in  minutes.
+Converting: 'scrollup.avi', (10 MB)
+Completed:  'next.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select.avi', (3 MB)
+Completed:  'play.ogv', (,2 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (5,4 MB)
+Completed:  'pause.ogv', (,5 MB) in ,1 minutes.
+Converting: 'switchtask.avi', (5,2 MB)
+Completed:  'navigate.ogv', (,4 MB) in ,2 minutes.
+Converting: 'zoomin.avi', (7,4 MB)
+Completed:  'rewind.ogv', (,3 MB) in ,1 minutes.
+Converting: 'zoomout.avi', (5 MB)
+Completed:  'select.ogv', (,2 MB) in ,1 minutes.
+Converting: 'accept.avi', (10,8 MB)
+Completed:  'scrolldown.ogv', (,3 MB) in ,1 minutes.
+Converting: 'acceptcall.avi', (11,5 MB)
+Completed:  'rejectcallphone.ogv', (,4 MB) in ,2 minutes.
+Converting: 'close.avi', (9 MB)
+Completed:  'reject.ogv', (,5 MB) in ,2 minutes.
+Converting: 'decreasevolume.avi', (10,7 MB)
+Completed:  'shuffle.ogv', (,4 MB) in ,1 minutes.
+Converting: 'emergency.avi', (19,5 MB)
+Completed:  'switchtask.ogv', (,4 MB) in ,1 minutes.
+Converting: 'forward.avi', (10,7 MB)
+Completed:  'zoomout.ogv', (,3 MB) in ,1 minutes.
+Converting: 'increasevolume.avi', (12,3 MB)
+Completed:  'mute.ogv', (1 MB) in ,4 minutes.
+Converting: 'maximize.avi', (10,9 MB)
+Completed:  'scrollup.ogv', (,6 MB) in ,2 minutes.
+Converting: 'minimize.avi', (6,8 MB)
+Completed:  'zoomin.ogv', (,5 MB) in ,2 minutes.
+Converting: 'mute.avi', (18,7 MB)
+Completed:  'play.ogv', (3,4 MB) in 1 minutes.
+Converting: 'navigate.avi', (10,5 MB)
+Completed:  'zoomout.ogv', (2 MB) in ,7 minutes.
+Converting: 'next.avi', (11 MB)
+Completed:  'close.ogv', (,7 MB) in ,3 minutes.
+Converting: 'open.avi', (7,8 MB)
+Completed:  'accept.ogv', (,7 MB) in ,3 minutes.
+Converting: 'pause.avi', (7,3 MB)
+Completed:  'acceptcall.ogv', (,7 MB) in ,3 minutes.
+Converting: 'play.avi', (6,5 MB)
+Completed:  'forward.ogv', (,7 MB) in ,3 minutes.
+Completed:  'minimize.ogv', (,4 MB) in ,2 minutes.
+Converting: 'previous.avi', (11 MB)
+Converting: 'reject.avi', (9 MB)
+Completed:  'decreasevolume.ogv', (,6 MB) in ,3 minutes.
+Converting: 'rejectcallphone.avi', (7,5 MB)
+Completed:  'maximize.ogv', (,8 MB) in ,3 minutes.
+Converting: 'rewind.avi', (7,5 MB)
+Completed:  'increasevolume.ogv', (,8 MB) in ,4 minutes.
+Converting: 'scrolldown.avi', (7,3 MB)
+Completed:  'pause.ogv', (,5 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (6,5 MB)
+Completed:  'play.ogv', (,4 MB) in ,2 minutes.
+Converting: 'select.avi', (11,2 MB)
+Completed:  'open.ogv', (,5 MB) in ,2 minutes.
+Converting: 'shuffle.avi', (10,9 MB)
+Completed:  'navigate.ogv', (,7 MB) in ,3 minutes.
+Converting: 'switchtask.avi', (6,9 MB)
+Completed:  'rejectcallphone.ogv', (,5 MB) in ,2 minutes.
+Converting: 'zoomin.avi', (10,5 MB)
+Completed:  'next.ogv', (,7 MB) in ,3 minutes.
+Converting: 'zoomout.avi', (8,4 MB)
+Completed:  'emergency.ogv', (1,3 MB) in ,6 minutes.
+Converting: 'accept.avi', (5,5 MB)
+Completed:  'reject.ogv', (,5 MB) in ,3 minutes.
+Converting: 'acceptcall.avi', (11,2 MB)
+Completed:  'previous.ogv', (,7 MB) in ,3 minutes.
+Converting: 'close.avi', (10,6 MB)
+Completed:  'rewind.ogv', (,5 MB) in ,2 minutes.
+Converting: 'decreasevolume.avi', (8,1 MB)
+Completed:  'mute.ogv', (1,1 MB) in ,5 minutes.
+Converting: 'emergency.avi', (26,4 MB)
+Completed:  'scrollup.ogv', (,4 MB) in ,2 minutes.
+Converting: 'forward.avi', (12,1 MB)
+Completed:  'scrolldown.ogv', (,4 MB) in ,2 minutes.
+Converting: 'increasevolume.avi', (6,5 MB)
+Completed:  'switchtask.ogv', (,5 MB) in ,2 minutes.
+Converting: 'maximize.avi', (7,7 MB)
+Completed:  'accept.ogv', (,3 MB) in ,2 minutes.
+Converting: 'minimize.avi', (11,6 MB)
+Completed:  'zoomout.ogv', (,5 MB) in ,2 minutes.
+Converting: 'mute.avi', (10,5 MB)
+Completed:  'select.ogv', (,8 MB) in ,3 minutes.
+Converting: 'navigate.avi', (60,6 MB)
+Completed:  'decreasevolume.ogv', (,5 MB) in ,2 minutes.
+Converting: 'next.avi', (26,8 MB)
+Completed:  'shuffle.ogv', (,7 MB) in ,3 minutes.
+Converting: 'open.avi', (11,8 MB)
+Completed:  'increasevolume.ogv', (,4 MB) in ,2 minutes.
+Converting: 'pause.avi', (16,5 MB)
+Completed:  'zoomin.ogv', (,7 MB) in ,3 minutes.
+Converting: 'play.avi', (14,4 MB)
+Completed:  'close.ogv', (,7 MB) in ,2 minutes.
+Completed:  'acceptcall.ogv', (,8 MB) in ,3 minutes.
+Converting: 'previous.avi', (10,2 MB)
+Converting: 'reject.avi', (10,1 MB)
+Completed:  'maximize.ogv', (,5 MB) in ,2 minutes.
+Converting: 'rejectcallphone.avi', (6,3 MB)
+Completed:  'forward.ogv', (,7 MB) in ,3 minutes.
+Converting: 'rewind.avi', (8,9 MB)
+Completed:  'mute.ogv', (,6 MB) in ,2 minutes.
+Converting: 'scrolldown.avi', (11,1 MB)
+Completed:  'minimize.ogv', (,7 MB) in ,2 minutes.
+Converting: 'scrollup.avi', (4,6 MB)
+Completed:  'rejectcallphone.ogv', (,3 MB) in ,1 minutes.
+Converting: 'select.avi', (12,9 MB)
+Completed:  'scrollup.ogv', (,3 MB) in ,1 minutes.
+Converting: 'shuffle.avi', (19,1 MB)
+Completed:  'rewind.ogv', (,5 MB) in ,2 minutes.
+Converting: 'switchtask.avi', (29,4 MB)
+Completed:  'open.ogv', (,7 MB) in ,3 minutes.
+Converting: 'zoomin.avi', (17,6 MB)
+Completed:  'pause.ogv', (,9 MB) in ,3 minutes.
+Converting: 'zoomout.avi', (9,7 MB)
+Completed:  'previous.ogv', (,7 MB) in ,3 minutes.
+Completed:  'reject.ogv', (,6 MB) in ,3 minutes.
+Completed:  'play.ogv', (,9 MB) in ,3 minutes.
+Completed:  'scrolldown.ogv', (,7 MB) in ,2 minutes.
+Completed:  'emergency.ogv', (1,8 MB) in ,6 minutes.
+Completed:  'zoomout.ogv', (,5 MB) in ,2 minutes.
+Completed:  'next.ogv', (1,8 MB) in ,5 minutes.
+Completed:  'select.ogv', (,9 MB) in ,3 minutes.
+Completed:  'switchtask.ogv', (1,5 MB) in ,3 minutes.
+Completed:  'zoomin.ogv', (1,1 MB) in ,3 minutes.
+Completed:  'shuffle.ogv', (1,4 MB) in ,4 minutes.
+Completed:  'navigate.ogv', (3,8 MB) in 1 minutes.
+Finished processing all files at 10.03.2016 18:37
